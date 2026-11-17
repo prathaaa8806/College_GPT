@@ -79,7 +79,7 @@ If you want to run the project in the cloud:
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - [Python](https://www.python.org/)
 - [Streamlit](https://streamlit.io/)
@@ -87,6 +87,6 @@ If you want to run the project in the cloud:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE) (or Open Source).
