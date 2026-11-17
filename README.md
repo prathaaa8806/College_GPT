@@ -1,10 +1,10 @@
-# 🎓 CollegeGPT: SJCEM Virtual Assistant
+# CollegeGPT: SJCEM Virtual Assistant
 
 CollegeGPT is an intelligent, lightweight campus assistant tailored specifically for **St. John College of Engineering and Management (SJCEM)** in Palghar. Built with **Streamlit** and powered by a pure-Python cosine-attention matching mechanism, it answers queries regarding college admissions, departments, placements, cutoffs, campus facilities, and more — without requiring external LLM API keys or cloud dependencies.
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 - **Built-in SJCEM Knowledge Base**: Comprehensive data on NAAC Grade A+ accreditation, UGC autonomy, engineering & diploma branches, MMS, admissions, fees, hostel, canteen, and sports facilities.
 - **Pure-Python Attention Mechanism**: Uses keyword & context tokenization with cosine similarity scoring to match user queries to the best relevant topic.
@@ -14,7 +14,7 @@ CollegeGPT is an intelligent, lightweight campus assistant tailored specifically
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 College_GPT/
@@ -27,7 +27,7 @@ College_GPT/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
