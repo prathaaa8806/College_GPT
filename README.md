@@ -70,7 +70,7 @@ Open your browser and navigate to `http://localhost:8501`.
 
 ---
 
-## ☁️ Running on Google Colab
+## Running on Google Colab
 
 If you want to run the project in the cloud:
 1. Upload `CollegeGPT.ipynb` to [Google Colab](https://colab.research.google.com/).
